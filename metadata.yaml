@@ -1,0 +1,41 @@
+_repo: Valerie_23952
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Wright-Nooth, W.
+    gutenberg_agent_id: '26142'
+    url: http://www.gutenberg.org/2009/agents/26142
+  illustrator:
+    agent_name: Downing, D.
+    gutenberg_agent_id: '35027'
+    url: http://www.gutenberg.org/2009/agents/35027
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, Captain
+    - Marryat, Kapitein
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2007-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Valerie
+url: http://www.gutenberg.org/ebooks/23952
