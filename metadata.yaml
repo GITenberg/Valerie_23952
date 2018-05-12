@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/627
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23952#Valerie
 gutenberg_issued: '2007-12-21'
 gutenberg_type: Text
 identifiers:
